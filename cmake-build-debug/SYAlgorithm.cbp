@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SYAlgorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SYAlgorithm">
+				<Option output="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/SYAlgorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 SYAlgorithm"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SYAlgorithm/fast">
+				<Option output="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/SYAlgorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 SYAlgorithm/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/BinaryOperator.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/BinaryOperator.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Div.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Div.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Minus.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Minus.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Mul.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Mul.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Plus.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/BinaryOperators/Plus.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Expression.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Interpreter.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Interpreter.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/UnaryOperators/UMinus.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/UnaryOperators/UMinus.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/UnaryOperators/UPlus.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/UnaryOperators/UPlus.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/UnaryOperators/UnaryOperator.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/UnaryOperators/UnaryOperator.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Value.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Value.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Variable.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/Variable.h">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/main.cpp">
+			<Option target="SYAlgorithm"/>
+		</Unit>
+		<Unit filename="/home/ori/CLionProjects/SYAlgorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

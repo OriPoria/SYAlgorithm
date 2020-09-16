@@ -1,0 +1,3 @@
+/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/CMakeFiles/SYAlgorithm.dir
+/home/ori/CLionProjects/SYAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
